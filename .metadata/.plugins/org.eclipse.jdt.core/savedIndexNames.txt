@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Users/vicmiclovich/Apps/gtug/.metadata/.plugins/org.eclipse.jdt.core
+595752509.index
+42027682.index

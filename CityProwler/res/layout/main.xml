@@ -6,7 +6,24 @@
     >
 <TextView  
     android:layout_width="fill_parent" 
-    android:layout_height="wrap_content" 
-    android:text="@string/hello"
+    android:layout_height="wrap_content"
+    android:gravity="center" 
+    android:text="@string/status"
     />
+    
+  <EditText
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:layout_weight="1"
+  android:gravity="top|center_horizontal"
+  android:hint="@string/update_status_hint"
+  />
+  <Button
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:text="@string/spot_event_label"
+  android:textSize="20sp" 
+  android:id="@+id/button_spot_event"></Button>
+  
+  
 </LinearLayout>

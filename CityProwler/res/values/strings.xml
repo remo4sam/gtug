@@ -2,4 +2,7 @@
 <resources>
     <string name="hello">Hello World, Prowler!</string>
     <string name="app_name">City Prowler</string>
+    <string name="spot_event_label">Spotted...</string>
+    <string name="status">Event</string>
+    <string name="update_status_hint">Where the hell are you?</string>
 </resources>

@@ -1,0 +1,55 @@
+!SESSION 2011-05-06 17:29:32.238 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_24
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/vicmiclovich/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -product org.eclipse.epp.package.java.product -data /Users/vicmiclovich/Apps/gtug -product org.eclipse.epp.package.java.product -keyring /Users/vicmiclovich/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2011-05-06 17:29:42.519
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-05-06 17:31:32.268
+!MESSAGE Failed to load properties file for project 'CityProwler'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-05-06 17:43:26.665
+!MESSAGE Failed to load properties file for project 'HelloGTUGERs'
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:07:27.875
+!MESSAGE AndroidManifest: Ignoring unknown 'Ed' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:11:22.432
+!MESSAGE AndroidManifest: Ignoring unknown 'Bu' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:13:41.837
+!MESSAGE main.xml: "fill_parenet" in attribute "layout_height" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:13:41.918
+!MESSAGE main.xml: Couldn't resolve resource @string/spot_event
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:13:49.567
+!MESSAGE main.xml: Couldn't resolve resource @string/spot_event
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:13:59.497
+!MESSAGE AndroidManifest: Ignoring unknown 'st' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:13:59.777
+!MESSAGE AndroidManifest: Ignoring unknown 'stri' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:21:05.172
+!MESSAGE main.xml: "wrap_parent" in attribute "layout_height" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:21:36.382
+!MESSAGE AndroidManifest: Ignoring unknown 'st' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:21:36.658
+!MESSAGE AndroidManifest: Ignoring unknown 'stri' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:22:00.320
+!MESSAGE main.xml: "wrap_parent" in attribute "layout_height" is not a valid format.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:23:34.609
+!MESSAGE AndroidManifest: Ignoring unknown 'st' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-05-06 18:23:34.840
+!MESSAGE AndroidManifest: Ignoring unknown 'stri' XML element
